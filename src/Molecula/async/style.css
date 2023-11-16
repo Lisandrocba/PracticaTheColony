@@ -1,0 +1,18 @@
+.contenedor{
+    border: 2px solid #000;
+    border-radius: 15px;
+    width: 20vw;
+    height: 10vh;
+    margin: 5px;
+    box-shadow: 5px 5px #000;
+    cursor: pointer;
+}
+
+.contenedorTotal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}

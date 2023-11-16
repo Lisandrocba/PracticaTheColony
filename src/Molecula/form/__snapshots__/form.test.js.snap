@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form component Snapshot form component 1`] = `
+<DocumentFragment>
+  <form>
+    <input
+      aria-label="name-input"
+      name="nombre"
+      type="text"
+      value=""
+    />
+    <input
+      aria-label="email-input"
+      name="email"
+      type="email"
+      value=""
+    />
+    <input
+      type="submit"
+    />
+  </form>
+</DocumentFragment>
+`;
